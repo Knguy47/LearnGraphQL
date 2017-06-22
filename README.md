@@ -1,2 +1,2 @@
 # LearnGraphQL
-Learn GraphQL with REACT
+Learning GraphQL with React.JS
